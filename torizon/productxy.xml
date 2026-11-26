@@ -27,7 +27,7 @@ Copied from https://git.toradex.com/toradex-manifest.git/tree/torizon/default.xm
   <project name="meta-toradex-distro.git" path="layers/meta-toradex-distro" remote="tdx" revision="c64f24727eaa741c2546bcf03bac5411e8a2f993"/>
   <project name="meta-toradex-security" path="layers/meta-toradex-security" remote="toradex" revision="f85dfd8bc6170eb8679f2ee4d98051fb13d5f821"/>
   <project name="meta-toradex-torizon" path="layers/meta-toradex-torizon" remote="torizon" revision="6869626aa2e98cd0863f0d698fb592c7d645dcf0"/>
-  <project name="torizon_openamp_productxy" path="layers/meta-productxy" remote="yocto-openamp" revision="ad31e391a44529797cf0dc111f999c9f120302c4">
+  <project name="torizon_openamp_productxy" path="layers/meta-productxy" remote="yocto-openamp" revision="c52cbbde890c4c0c08562e7b089c428d596d3701">
     <linkfile dest="setup-environment" src="scripts/setup-environment"/>
   </project>
 </manifest>
